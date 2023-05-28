@@ -1,0 +1,3 @@
+[submodule "annepro-qmk"]
+	path = annepro-qmk
+	url = https://github.com/OpenAnnePro/qmk_firmware.git
